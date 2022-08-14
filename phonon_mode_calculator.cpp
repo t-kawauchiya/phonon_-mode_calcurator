@@ -19,3 +19,8 @@ void Phonon_mode_calculator::calculate()
 {
   std::cout << "calculated!!" << std::endl;
 }
+
+void Phonon_mode_calculator::dump()
+{
+  std::cout << "dumped!!" << std::endl;
+}
